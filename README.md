@@ -1,4 +1,4 @@
-A simple HTML file for a tourist website for booking tourist packages
+A simple HTML file for booking tourist packages
 
 
 
