@@ -1,4 +1,4 @@
-A simple HTML code for booking tourist packages all over India.
+A simple HTML code for exploring all over India.
 
 
 
